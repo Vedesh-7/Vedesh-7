@@ -23,3 +23,5 @@
 🗄️ SQL
 
 🔧 Git & GitHub
+
+☁️ AWS & Linux
