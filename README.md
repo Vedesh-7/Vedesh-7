@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Irivichetty Vedesh
 
-<!--
-**Vedesh-7/Vedesh-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Aspiring AI/ML Engineer | Python • Machine Learning
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Information Technology graduate.
+
+🤖 Aspiring **AI/ML Engineer** focused on learning by building real-world projects.
+
+🐍 Currently learning **Python, Machine Learning, and Data Science fundamentals**.
+
+🚀 Gradually exploring **Deep Learning, NLP, Computer Vision, and Generative AI**.
+
+🎯 My goal is to build practical AI solutions and grow into a skilled **AI/ML Engineer**.
+
+## 🛠️ Currently Learning
+
+🐍 Python
+
+🤖 Machine Learning • Scikit-learn
+
+🗄️ SQL
+
+🔧 Git & GitHub
